@@ -1,2 +1,2 @@
 # crystal-releases
-主要用来发布
+主要用来二进制发布
